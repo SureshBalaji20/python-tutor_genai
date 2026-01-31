@@ -23,3 +23,5 @@ Follow these steps to set up the project on your machine.
 ```bash
 git clone [https://github.com/YOUR_USERNAME/python-tutor-st.git](https://github.com/YOUR_USERNAME/python-tutor-st.git)
 cd python-tutor-st
+pip install -r requirements.txt
+streamlit run LLM_pythontutor.py
